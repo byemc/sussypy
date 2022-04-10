@@ -1,6 +1,5 @@
 import random
 
-
 class Voting:
     def ejected(name, isImpostor=None, remaining=0):
         '''Creates a message for when the player has been ejected.
